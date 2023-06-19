@@ -1,0 +1,15 @@
+D:\LearningCode\EarningAScholarship\obj\Debug\net7.0\EarningAScholarship.csproj.AssemblyReference.cache
+D:\LearningCode\EarningAScholarship\obj\Debug\net7.0\EarningAScholarship.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningCode\EarningAScholarship\obj\Debug\net7.0\EarningAScholarship.AssemblyInfoInputs.cache
+D:\LearningCode\EarningAScholarship\obj\Debug\net7.0\EarningAScholarship.AssemblyInfo.cs
+D:\LearningCode\EarningAScholarship\obj\Debug\net7.0\EarningAScholarship.csproj.CoreCompileInputs.cache
+D:\LearningCode\EarningAScholarship\bin\Debug\net7.0\EarningAScholarship.exe
+D:\LearningCode\EarningAScholarship\bin\Debug\net7.0\EarningAScholarship.deps.json
+D:\LearningCode\EarningAScholarship\bin\Debug\net7.0\EarningAScholarship.runtimeconfig.json
+D:\LearningCode\EarningAScholarship\bin\Debug\net7.0\EarningAScholarship.dll
+D:\LearningCode\EarningAScholarship\bin\Debug\net7.0\EarningAScholarship.pdb
+D:\LearningCode\EarningAScholarship\obj\Debug\net7.0\EarningAScholarship.dll
+D:\LearningCode\EarningAScholarship\obj\Debug\net7.0\refint\EarningAScholarship.dll
+D:\LearningCode\EarningAScholarship\obj\Debug\net7.0\EarningAScholarship.pdb
+D:\LearningCode\EarningAScholarship\obj\Debug\net7.0\EarningAScholarship.genruntimeconfig.cache
+D:\LearningCode\EarningAScholarship\obj\Debug\net7.0\ref\EarningAScholarship.dll
